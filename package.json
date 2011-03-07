@@ -1,0 +1,30 @@
+{
+    "name":"nlog4js",
+    "description":"node.js module - wrap log4js-node.",
+    "version":"0.0.1",
+    "keywords": [
+        "logging",
+        "log",
+        "node",
+        "log4js-node",
+        "log4js"
+    ],
+    "homepage": "https://github.com/fkei/nlog4js",
+    "author": {
+        "name": "Kei Funagayama",
+        "email": "kei.topaz@gmail.com",
+        "url": "https://github.com/fkei"
+    },
+    "main":"./lib/log.js",
+    "directories":{
+        "doc":"./doc",
+        "lib":"./lib"
+    },
+    "licenses":[{
+        "type":"APLv2",
+        "url":"http://www.opensource.org/licenses/apache2.0"
+    }],
+    "bugs":{
+        "web":"https://github.com/fkei/nlog4js/issues"
+    },
+}
