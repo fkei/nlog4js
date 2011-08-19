@@ -1,7 +1,7 @@
 {
     "name":"nlog4js",
     "description":"node.js module - wrap log4js-node.",
-    "version":"0.2.1",
+    "version":"0.2.2",
     "keywords": [
         "logging",
         "log",
