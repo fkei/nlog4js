@@ -1,14 +1,16 @@
 {
     "name":"nlog4js",
     "description":"node.js module - wrap log4js-node.",
-    "version":"0.2.0",
+    "version":"0.2.1",
     "keywords": [
         "logging",
         "log",
-        "node",
         "log4js-node",
         "log4js"
     ],
+    "dependencies": {
+        "log4js": "<=0.2.6"
+    },
     "homepage": "https://github.com/fkei/nlog4js",
     "author": "Kei Funagayama <kei.topaz@gmail.com> (https://github.com/fkei)",
     "main":"./lib/log.js",
